@@ -83,13 +83,3 @@ The frontend will be available at `http://localhost:5173`.
 * 📦 Cart and order management
 * 📄 Collection and product detail pages
 * 🎨 Responsive UI with Tailwind CSS
-
----
-
-## 📦 Deployment
-
-Use Docker or your preferred cloud platform to deploy both frontend and backend components. The Dockerfile for backend is already included.
-
----
-
-Let me know if you'd like this README to include API routes, environment setup, or sample data instructions as well.
